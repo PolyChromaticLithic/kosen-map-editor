@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 240" width="600" height="240">
+  <rect x="0" y="0" width="600" height="240" fill="#fafafa" stroke="#333" stroke-width="4"/>
+  <rect x="0" y="0" width="200" height="90" fill="#e0f2fe" stroke="#333" stroke-width="2"/>
+  <text x="100" y="50" text-anchor="middle" font-size="18">101 1年1組</text>
+  <rect x="0" y="150" width="120" height="90" fill="#fee2e2" stroke="#333" stroke-width="2"/>
+  <text x="60" y="200" text-anchor="middle" font-size="18">トイレ</text>
+  <rect x="520" y="0" width="80" height="90" fill="#fef3c7" stroke="#333" stroke-width="2"/>
+  <text x="560" y="50" text-anchor="middle" font-size="16">階段</text>
+  <rect x="0" y="90" width="600" height="60" fill="#f1f5f9"/>
+  <text x="300" y="125" text-anchor="middle" font-size="14" fill="#64748b">廊下</text>
+</svg>

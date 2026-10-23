@@ -1,0 +1,4 @@
+id,code,name,reading,short_name,model_object_name,description,sort_order,is_active,created_at,updated_at
+1,b1,第1号館,だいいちごうかん,1号館,Building_1,,1,true,2026-10-01T00:00:00+00:00,2026-10-01T00:00:00+00:00
+2,b2,第2号館,だいにごうかん,2号館,Building_2,,2,true,2026-10-01T00:00:00+00:00,2026-10-01T00:00:00+00:00
+3,gym,体育館,たいいくかん,体育館,Gym,,3,true,2026-10-01T00:00:00+00:00,2026-10-01T00:00:00+00:00

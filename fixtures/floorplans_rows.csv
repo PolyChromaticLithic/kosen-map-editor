@@ -1,0 +1,6 @@
+id,floor_id,code,name,asset_path,viewbox_width,viewbox_height,sort_order,is_active,created_at
+1,1,b1_1f,1号館1階,floorplans/b1_1f.svg,600,240,1,true,2026-10-01T00:00:00+00:00
+2,2,b1_2f,1号館2階,floorplans/b1_2f.svg,600,240,1,true,2026-10-01T00:00:00+00:00
+3,3,b2_1f,2号館1階,floorplans/b2_1f.svg,600,240,1,true,2026-10-01T00:00:00+00:00
+4,4,b2_2f,2号館2階,floorplans/b2_2f.svg,600,240,1,true,2026-10-01T00:00:00+00:00
+5,5,gym_1f,体育館1階,floorplans/gym_1f.svg,600,500,1,true,2026-10-01T00:00:00+00:00

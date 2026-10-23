@@ -1,0 +1,7 @@
+id,code,name,node_type,world_x,world_y,world_z,floor_id,is_active,created_at
+1,b1_1f_ent,1号館正面入口,entrance,15,0,12,1,true,2026-10-01T00:00:00+00:00
+2,b1_1f_h1,,hallway,15,0,6,1,true,2026-10-01T00:00:00+00:00
+3,b1_1f_h2,,hallway,5,0,6,1,true,2026-10-01T00:00:00+00:00
+4,b1_1f_st,1号館階段1F,stairs,27,0,6,1,true,2026-10-01T00:00:00+00:00
+5,b1_2f_st,1号館階段2F,stairs,27,3.6,6,2,true,2026-10-01T00:00:00+00:00
+6,out_1,,outdoor,15,0,20,,true,2026-10-01T00:00:00+00:00

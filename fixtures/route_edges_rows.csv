@@ -1,0 +1,6 @@
+id,from_node_id,to_node_id,edge_type,is_bidirectional,distance_m,cost_multiplier,extra_cost,wheelchair_accessible,is_indoor,is_covered,slope_percent,min_width_m,access_level,is_active,note,created_at
+1,1,2,hallway,true,,1,0,true,true,true,,,public,true,,2026-10-01T00:00:00+00:00
+2,2,3,hallway,true,,1,0,true,true,true,,2.5,public,true,,2026-10-01T00:00:00+00:00
+3,2,4,hallway,true,,1,0,true,true,true,,,public,true,,2026-10-01T00:00:00+00:00
+4,4,5,stairs,true,,1.5,0,false,true,true,,,public,true,,2026-10-01T00:00:00+00:00
+5,6,1,doorway,true,,1,0,true,false,false,,,public,true,,2026-10-01T00:00:00+00:00
